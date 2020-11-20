@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,3 +22,8 @@
 
 </body>
 </html>
+=======
+<?php get_header(); ?>
+
+<?php get_footer(); ?>
+>>>>>>> c010780fbc16833df9e96b0b940679e4f090e08c
