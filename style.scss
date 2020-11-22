@@ -3,12 +3,17 @@ Theme Name: Gem-template
 Description: WEBサイトのテンプレートテーマです。
 */
 
-@import "foundation/_reset";
-@import "foundation/_settings";
-@import "foundation/_mixin";
-@import "foundation/_webfont";
-@import "layout/_header";
-@import "layout/_footer";
-@import "layout/_main";
-@import "object/component/_button";
-@import "object/utility/text";
+// @import "scss/foundation/_base";
+@import "scss/foundation/_reset";
+@import "scss/foundation/_settings";
+@import "scss/foundation/_mixin";
+@import "scss/foundation/_webfont";
+
+@import "scss/layout/_header";
+@import "scss/layout/_footer";
+@import "scss/layout/_main";
+@import "scss/layout/_sidebar";
+
+@import "scss/object/component/*";
+@import "scss/object/project/*";
+@import "scss/object/utility/*";
