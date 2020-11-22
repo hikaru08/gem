@@ -4,16 +4,16 @@ Description: WEBサイトのテンプレートテーマです。
 */
 
 // @import "scss/foundation/_base";
-@import "scss/foundation/_reset";
-@import "scss/foundation/_settings";
-@import "scss/foundation/_mixin";
-@import "scss/foundation/_webfont";
+@import "/assets/scss/foundation/_reset";
+@import "/assets/scss/foundation/_settings";
+@import "/assets/scss/foundation/_mixin";
+@import "/assets/scss/foundation/_webfont";
 
-@import "scss/layout/_header";
-@import "scss/layout/_footer";
-@import "scss/layout/_main";
-@import "scss/layout/_sidebar";
+@import "/assets/scss/layout/_header";
+@import "/assets/scss/layout/_footer";
+@import "/assets/scss/layout/_main";
+@import "/assets/scss/layout/_sidebar";
 
-@import "scss/object/component/*";
-@import "scss/object/project/*";
-@import "scss/object/utility/*";
+@import "/assets/scss/object/component/*";
+@import "/assets/scss/object/project/*";
+@import "/assets/scss/object/utility/*";
