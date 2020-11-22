@@ -4,6 +4,9 @@ Description: WEBサイトのテンプレートテーマです。
 */
 
 @import "foundation/_reset";
+@import "foundation/_settings";
+@import "foundation/_mixin";
+@import "foundation/_webfont";
 @import "layout/_header";
 @import "layout/_footer";
 @import "layout/_main";
