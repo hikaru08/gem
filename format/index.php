@@ -6,5 +6,8 @@
     <?php get_template_part('/format/component/_buttons');?>
     <!-- タブ -->
     <?php get_template_part('/format/component/_tab');?>
+
+    <!-- araki兄やん -->
+    <?php get_template_part('/format/component/_araki1');?>
   </div>
 </section>
