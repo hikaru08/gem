@@ -98,7 +98,7 @@
         </tbody>
     </table>
 </div>
-<div class="u-mbs is-bottom">
+<!-- <div class="u-mbs is-bottom">
     <table class="c-table-xlg js-table">
         <thead>
             <tr>
@@ -120,7 +120,7 @@
             </tr>
         </tbody>
     </table>
-</div>
+</div> -->
 <div class="u-mbs is-bottom">
     <div class="row">
         <div class="large-7 small-12">

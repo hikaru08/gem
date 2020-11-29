@@ -77,12 +77,12 @@ $susy: (
 
 @for $i from 1 through $grid-column-count {
   .small-#{$i} {
-    width: (100% * $i / 12);
+    width: span($i);
     padding-left: (map_get($grid-column-responsive-gutter,small)/2);
     padding-right: (map_get($grid-column-responsive-gutter,small)/2);
   }
   .is-push-sm-#{$i} {
-    width: (100% * $i / 12);
+    width: span($i);
     padding-left: (map_get($grid-column-responsive-gutter,small)/2);
     padding-right: (map_get($grid-column-responsive-gutter,small)/2);
   }
@@ -97,12 +97,12 @@ $susy: (
 @include breakpoint(medium only) {
   @for $i from 1 through $grid-column-count {
     .medium-#{$i} {
-      width: (100% * $i / 12);
+      width: span($i);
       padding-left: (map_get($grid-column-responsive-gutter,medium)/2);
       padding-right: (map_get($grid-column-responsive-gutter,medium)/2);
     }
     .is-push-md-#{$i} {
-      width: (100% * $i / 12);
+      width: span($i);
     }
   }
 }
@@ -116,12 +116,12 @@ $susy: (
   @for $i from 1 through $grid-column-count {
     .large-#{$i} {
       // width: span($i);
-      width: (100% * $i / 12);
+      width: span($i);
       padding-left: (map_get($grid-column-responsive-gutter,medium)/2);
       padding-right: (map_get($grid-column-responsive-gutter,medium)/2);
     }
     .is-push-lg-#{$i} {
-      width: (100% * $i / 12);
+      width: span($i);
     }
   }
 }

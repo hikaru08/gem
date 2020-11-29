@@ -1,3 +1,5 @@
+<?php get_header()?>
+
 <section class="l-section">
   <div class="l-container">
     <!-- テキスト関係 -->
@@ -11,3 +13,5 @@
     <?php get_template_part('/format/component/_araki1');?>
   </div>
 </section>
+
+<?php get_footer()?>

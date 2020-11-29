@@ -3,32 +3,18 @@ Theme Name: Gem-template
 Description: WEBサイトのテンプレートテーマです。
 */
 
+@import '../sass/susy';
+
 @import "foundation/_webfont";
 @import "foundation/_settings";
 @import "foundation/_mixin";
 @import "foundation/_normalize";
 @import "foundation/_forms";
 
-@import "layout/aside";
-@import "layout/block";
-@import "layout/container";
-@import "layout/footer";
-@import "layout/footer-normal";
-@import "layout/footer-simple";
-@import "layout/global-nav";
-@import "layout/header";
-@import "layout/header-minimal";
-@import "layout/header-variable";
-@import "layout/main";
-@import "layout/offer";
-@import "layout/offer-button";
-@import "layout/offer-sm";
-@import "layout/page-header";
-@import "layout/post-content";
-@import "layout/print";
-@import "layout/section";
-@import "layout/wrapper";
-
+// モジュール
+//
+// サイトで複数回利用する可能性のある粒度の細かい要素をモジュールを定義しています。
+//
 // @import "object/component/*";
 @import "object/component/accordion";
 @import "object/component/accordion-list";
@@ -76,6 +62,10 @@ Description: WEBサイトのテンプレートテーマです。
 @import "object/component/tel-top";
 @import "object/component/toc";
 
+// ブロック
+//
+// ベース・モジュールを利用した、サイトで利用するブロックを定義しています。
+//
 // @import "object/project/*";
 @import "object/project/comments";
 @import "object/project/contact";
@@ -90,6 +80,31 @@ Description: WEBサイトのテンプレートテーマです。
 @import "object/project/privacy";
 @import "object/project/profile-box";
 @import "object/project/sitemap";
+
+// ユーティリティ
+//
+// サイトのヘルパーとなるスタイル群です。
+//
+@import "layout/aside";
+@import "layout/block";
+@import "layout/container";
+@import "layout/footer";
+@import "layout/footer-normal";
+@import "layout/footer-simple";
+@import "layout/global-nav";
+@import "layout/header";
+@import "layout/header-minimal";
+@import "layout/header-variable";
+@import "layout/main";
+@import "layout/offer";
+@import "layout/offer-button";
+@import "layout/offer-sm";
+@import "layout/page-header";
+@import "layout/post-content";
+@import "layout/print";
+@import "layout/section";
+@import "layout/wrapper";
+
 
 // @import "object/utility/*";
 @import "object/utility/align";

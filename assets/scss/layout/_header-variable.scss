@@ -12,10 +12,10 @@ category: Layout
   padding-top: rem-calc(16);
   padding-right: rem-calc(200);
   height: rem-calc(124);
+  position: fixed;
+  top: 0;
+  left: 0;
   @include breakpoint(medium down) {
-    // position: fixed;
-    // top: 0;
-    // left: 0;
     width: 100%;
     padding: rem-calc(14) rem-calc(64) rem-calc(14) rem-calc(16);
     height: rem-calc(55);
