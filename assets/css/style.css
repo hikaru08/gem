@@ -5202,344 +5202,344 @@ category: Forms
 }
 
 .small-1 {
-  width: span(1);
+  width: 8.33333%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .is-push-sm-1 {
-  margin-left: span(1);
+  width: 8.33333%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .small-2 {
-  width: span(2);
+  width: 16.66667%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .is-push-sm-2 {
-  margin-left: span(2);
+  width: 16.66667%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .small-3 {
-  width: span(3);
+  width: 25%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .is-push-sm-3 {
-  margin-left: span(3);
+  width: 25%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .small-4 {
-  width: span(4);
+  width: 33.33333%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .is-push-sm-4 {
-  margin-left: span(4);
+  width: 33.33333%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .small-5 {
-  width: span(5);
+  width: 41.66667%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .is-push-sm-5 {
-  margin-left: span(5);
+  width: 41.66667%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .small-6 {
-  width: span(6);
+  width: 50%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .is-push-sm-6 {
-  margin-left: span(6);
+  width: 50%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .small-7 {
-  width: span(7);
+  width: 58.33333%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .is-push-sm-7 {
-  margin-left: span(7);
+  width: 58.33333%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .small-8 {
-  width: span(8);
+  width: 66.66667%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .is-push-sm-8 {
-  margin-left: span(8);
+  width: 66.66667%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .small-9 {
-  width: span(9);
+  width: 75%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .is-push-sm-9 {
-  margin-left: span(9);
+  width: 75%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .small-10 {
-  width: span(10);
+  width: 83.33333%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .is-push-sm-10 {
-  margin-left: span(10);
+  width: 83.33333%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .small-11 {
-  width: span(11);
+  width: 91.66667%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .is-push-sm-11 {
-  margin-left: span(11);
+  width: 91.66667%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .small-12 {
-  width: span(12);
+  width: 100%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 .is-push-sm-12 {
-  margin-left: span(12);
+  width: 100%;
   padding-left: 8px;
   padding-right: 8px;
 }
 
 @media screen and (min-width: 46.875em) and (max-width: 59.3125em) {
   .medium-1 {
-    width: span(1);
+    width: 8.33333%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-md-1 {
-    margin-left: span(1);
+    width: 8.33333%;
   }
   .medium-2 {
-    width: span(2);
+    width: 16.66667%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-md-2 {
-    margin-left: span(2);
+    width: 16.66667%;
   }
   .medium-3 {
-    width: span(3);
+    width: 25%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-md-3 {
-    margin-left: span(3);
+    width: 25%;
   }
   .medium-4 {
-    width: span(4);
+    width: 33.33333%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-md-4 {
-    margin-left: span(4);
+    width: 33.33333%;
   }
   .medium-5 {
-    width: span(5);
+    width: 41.66667%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-md-5 {
-    margin-left: span(5);
+    width: 41.66667%;
   }
   .medium-6 {
-    width: span(6);
+    width: 50%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-md-6 {
-    margin-left: span(6);
+    width: 50%;
   }
   .medium-7 {
-    width: span(7);
+    width: 58.33333%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-md-7 {
-    margin-left: span(7);
+    width: 58.33333%;
   }
   .medium-8 {
-    width: span(8);
+    width: 66.66667%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-md-8 {
-    margin-left: span(8);
+    width: 66.66667%;
   }
   .medium-9 {
-    width: span(9);
+    width: 75%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-md-9 {
-    margin-left: span(9);
+    width: 75%;
   }
   .medium-10 {
-    width: span(10);
+    width: 83.33333%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-md-10 {
-    margin-left: span(10);
+    width: 83.33333%;
   }
   .medium-11 {
-    width: span(11);
+    width: 91.66667%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-md-11 {
-    margin-left: span(11);
+    width: 91.66667%;
   }
   .medium-12 {
-    width: span(12);
+    width: 100%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-md-12 {
-    margin-left: span(12);
+    width: 100%;
   }
 }
 
 @media screen and (min-width: 46.875em) {
   .large-1 {
-    width: span(1);
+    width: 8.33333%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-lg-1 {
-    margin-left: span(1);
+    width: 8.33333%;
   }
   .large-2 {
-    width: span(2);
+    width: 16.66667%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-lg-2 {
-    margin-left: span(2);
+    width: 16.66667%;
   }
   .large-3 {
-    width: span(3);
+    width: 25%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-lg-3 {
-    margin-left: span(3);
+    width: 25%;
   }
   .large-4 {
-    width: span(4);
+    width: 33.33333%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-lg-4 {
-    margin-left: span(4);
+    width: 33.33333%;
   }
   .large-5 {
-    width: span(5);
+    width: 41.66667%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-lg-5 {
-    margin-left: span(5);
+    width: 41.66667%;
   }
   .large-6 {
-    width: span(6);
+    width: 50%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-lg-6 {
-    margin-left: span(6);
+    width: 50%;
   }
   .large-7 {
-    width: span(7);
+    width: 58.33333%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-lg-7 {
-    margin-left: span(7);
+    width: 58.33333%;
   }
   .large-8 {
-    width: span(8);
+    width: 66.66667%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-lg-8 {
-    margin-left: span(8);
+    width: 66.66667%;
   }
   .large-9 {
-    width: span(9);
+    width: 75%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-lg-9 {
-    margin-left: span(9);
+    width: 75%;
   }
   .large-10 {
-    width: span(10);
+    width: 83.33333%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-lg-10 {
-    margin-left: span(10);
+    width: 83.33333%;
   }
   .large-11 {
-    width: span(11);
+    width: 91.66667%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-lg-11 {
-    margin-left: span(11);
+    width: 91.66667%;
   }
   .large-12 {
-    width: span(12);
+    width: 100%;
     padding-left: 18px;
     padding-right: 18px;
   }
   .is-push-lg-12 {
-    margin-left: span(12);
+    width: 100%;
   }
 }
 
