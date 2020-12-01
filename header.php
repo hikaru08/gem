@@ -13,7 +13,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500;700;900&display=swap" rel="stylesheet">
     <title>Template</title>
   </head>
-  <body>
+  <body class="top slidebar-init">
+  <?php get_template_part('/template/mixin/_slidebar');?>
+
   <!-- ↓どちらかから1つを選択 -->
   <?php get_template_part('template/layout/_header-normal');?>
   <!-- <?php get_template_part('template/layout/_header-variable');?> -->
