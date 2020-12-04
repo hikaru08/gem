@@ -29,9 +29,17 @@ body {
   line-height: $font-base-line-hight;
   letter-spacing: $font-base-letter-spacing;
   font-size: $font-base-size;
+  // ↓headerの高さ
+  margin-top: rem-calc(127);
+
   &.is-slidebar-active {
     overflow: hidden;
   }
+  @include breakpoint(medium down) {
+    // ↓headerの高さ
+    margin-top: rem-calc(55);
+  }
+
   @include breakpoint(small only) {
     font-size:  $font-base-size*0.875;
   }
