@@ -82,7 +82,7 @@ $susy: (
     padding-right: (map_get($grid-column-responsive-gutter,small)/2);
   }
   .is-push-sm-#{$i} {
-    width: span($i);
+    margin-left: span($i);
     padding-left: (map_get($grid-column-responsive-gutter,small)/2);
     padding-right: (map_get($grid-column-responsive-gutter,small)/2);
   }
@@ -102,7 +102,7 @@ $susy: (
       padding-right: (map_get($grid-column-responsive-gutter,medium)/2);
     }
     .is-push-md-#{$i} {
-      width: span($i);
+      margin-left: span($i);
     }
   }
 }
@@ -121,7 +121,7 @@ $susy: (
       padding-right: (map_get($grid-column-responsive-gutter,medium)/2);
     }
     .is-push-lg-#{$i} {
-      width: span($i);
+      margin-left: span($i);
     }
   }
 }
