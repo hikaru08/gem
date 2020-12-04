@@ -7172,7 +7172,9 @@ category: Layout
   width: 100%;
   z-index: 9990;
   padding: 1rem 2rem 1.5rem;
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 @media screen and (max-width: 59.3125em) {

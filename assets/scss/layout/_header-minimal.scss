@@ -9,11 +9,11 @@ category: Layout
   width: 100%;
   z-index: 9990;
   padding: rem-calc(16) rem-calc(32) rem-calc(24);
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+
   @include breakpoint(medium down) {
-    // position: fixed;
-    // top: 0;
-    // left: 0;
     width: 100%;
     padding: rem-calc(3) rem-calc(64) rem-calc(3) rem-calc(16);
     height: rem-calc(55);
