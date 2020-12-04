@@ -24,9 +24,9 @@
           <span>事業紹介</span>
         </div>
         <ul class="l-footer__menulist is-sub">
-          <li><a /="/">社員研修事業</a></li>
-          <li><a /="/">プロジェクトマネジメント事業</a></li>
-          <li><a /="/">システム開発事業</a></li>
+          <li><a href="/">社員研修事業</a></li>
+          <li><a href="/">プロジェクトマネジメント事業</a></li>
+          <li><a href="/">システム開発事業</a></li>
         </ul>
       </div>
       <div class="l-footer__block">
@@ -34,17 +34,17 @@
           <span>お知らせ</span>
         </div>
         <ul class="l-footer__menulist is-sub">
-          <li><a /="/">更新情報</a></li>
-          <li><a /="/">ニュースリリース</a></li>
+          <li><a href="/">更新情報</a></li>
+          <li><a href="/">ニュースリリース</a></li>
         </ul>
       </div>
       <div class="l-footer__block">
         <ul class="l-footer__menulist">
-          <li><a /="/">企業ブログ</a></li>
-          <li><a /="/">企業メディア</a></li>
-          <li><a /="/">よくあるご質問</a></li>
-          <li><a /="/">お客様の声</a></li>
-          <li><a /="/">お問い合わせ</a></li>
+          <li><a href="/">企業ブログ</a></li>
+          <li><a href="/">企業メディア</a></li>
+          <li><a href="/">よくあるご質問</a></li>
+          <li><a href="/">お客様の声</a></li>
+          <li><a href="/">お問い合わせ</a></li>
         </ul>
       </div>
     </div>
@@ -52,7 +52,7 @@
       <a class="l-footer__logo" href="/">
         <img src="<?php echo get_template_directory_uri()?>/assets/images/logo-white.png" ロゴ="ロゴ"/>
       </a>
-      <address class="l-footer__address">〒464-0850 <br>愛知県名古屋市千種区今池3丁目12-20 KAビル6F<br>TEL：052-753-6413 / FAX：052-753-6414</address>
+      <address class="l-footer__address">〒000-0000 <br>東京都市港区〇〇0丁目00-00 〇〇ビル〇F<br>TEL：000-000-0000 / FAX：000-000-0000</address>
       <small class="l-footer__copyright">＠2020 サンプル Co.Ltd.</small>
     </div>
   </div>
