@@ -1,4 +1,4 @@
-<!--普通bar l_offer-->
+<!--普通 l_offer-->
 <div class="l-offer is-color-primary">
   <div class="l-container">
     <div class="l-offer__inner">
@@ -28,7 +28,7 @@
     </div>
   </div>
 </div>
-<!--省略bar-->
+<!--省略 l_offer-->
 <!-- <div class="l-offer is-padding-lg">
   <div class="l-container">
     <div class="l-offer__inner">
